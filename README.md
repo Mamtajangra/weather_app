@@ -1,1 +1,28 @@
-# weather_app
+
+# Weather App
+
+A simple Streamlit app to display current weather information for any city using the OpenWeatherMap API.
+
+## Features
+
+- Enter a city name to get real-time weather data
+- Displays temperature, humidity, and weather description
+
+## Screenshot
+![Weather App Screenshot](image\result.png.png)
+
+## Setup
+
+1. Clone the repository.
+2. Install dependencies:
+   ```sh
+   pip install streamlit requests python-dotenv# weather_app
+
+3. Add your OpenWeatherMap API key to a .env file:
+   API=your_api_key_here
+4. Run the app:
+streamlit run [weather_app.py](http://_vscodecontentref_/0)   
+
+## Usage
+- Enter the name of a city in the input box.
+- View the temperature, humidity, and weather description.
