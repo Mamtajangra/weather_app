@@ -10,7 +10,7 @@ A simple Streamlit app to display current weather information for any city using
 
 ## Screenshot
 ![Weather App Screenshot](https://raw.githubusercontent.com/Mamtajangra/weather_app/main/image/result.png)
-![weather json](image\json_weather.jpg)
+![weather json](https://raw.githubusercontent.com/Mamtajangra/weather_app/main/image/json_weather.jpg)
 
 ## Setup
 
