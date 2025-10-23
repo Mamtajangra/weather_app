@@ -33,3 +33,4 @@ if city:
         st.write(f"**Weather:** {description}")  
 else:
     st.error("City not found!")          
+
