@@ -8,9 +8,14 @@ A simple Streamlit app to display current weather information for any city using
 - Enter a city name to get real-time weather data
 - Displays temperature, humidity, and weather description
 
+## streamlit link
+ **Live Demo:** [Click here to view](https://mamtajangra-weather-app-weather-app-ejkure.streamlit.app/)
+
 ## Screenshot
 ![Weather App Screenshot](https://raw.githubusercontent.com/Mamtajangra/weather_app/main/image/result.png)
-![weather json](https://raw.githubusercontent.com/Mamtajangra/weather_app/main/image/json_weather.jpg)
+![weather json](https://raw.githubusercontent.com/Mamtajangra/weather_app/main/image/json_weather.jpg)'
+
+
 
 ## Setup
 
